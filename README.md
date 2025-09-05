@@ -27,7 +27,7 @@
 ### 👨‍💼 About Me:
 - 💼 I'm a **Businessman & CEO** of **Suryansh Divyansh Kirana Store**  
 - 🎮 Gamer & tech enthusiast  
-- 💻 I work with **Python, Java, C++, Flask, Django, Node.js, React, MongoDB, TensorFlow, OpenCV, scikit-learn**  
+- 💻 I work with **Python,**  
 - 💬 Talk to me about **Business, Technology, Gaming, and Entrepreneurship**  
 - ⚡ Fun fact: I love challenges and building cool stuff  
 
